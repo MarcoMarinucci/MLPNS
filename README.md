@@ -1,5 +1,4 @@
 # MLPNS
 
-Files for the MLPNS course
+Notebooks for the MLPNS course
 
-Notebooks
